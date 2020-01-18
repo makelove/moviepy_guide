@@ -1,4 +1,5 @@
 ## GitHub: https://github.com/makelove/moviepy_guide
+- moviepy+Jupiter ,支持中文字幕 https://hub.docker.com/r/play4fun/moviepy_chinese_font
 
 - 下载
     - docker pull play4fun/moviepy_chinese_font
